@@ -20,6 +20,7 @@ body {
 .profile-pic {
     width: 200px;
     height: auto;
+    border-radius: 50%;
 }
 
 h2 {
