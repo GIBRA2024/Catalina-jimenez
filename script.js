@@ -3,7 +3,8 @@ function descargarContacto() {
 VERSION:3.0
 FN:Catalina Jimenez
 TEL:3176716707
-EMAIL: jsrisso1218@gmail.com 
+EMAIL: catalina77764@gmail.com
+EMAIL;type=work: gerencia@gibracompany.com
 END:VCARD`;
 
     const blob = new Blob([vcardData], { type: 'text/vcard' });
